@@ -1,0 +1,17 @@
+{
+    "manifest_version": 2,
+    "name": "Add Youtube for Otoniwa",
+    "version": "1.0",
+    "browser_action": {
+        "default_popup": "popup.html"
+    },
+    "icons": {
+        "16": "Uniotto_icon.png",
+        "48": "Uniotto_icon.png",
+        "128": "Uniotto_icon.png"
+    },
+    "permissions": [
+        "tabs",
+        "clipboardWrite"
+    ]
+}
